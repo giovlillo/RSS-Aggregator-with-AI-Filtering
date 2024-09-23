@@ -226,5 +226,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#ERROR:root:Error retrieving RSS feed from https://uxdesign.cc/feed: 429 Client Error: Too Many Requests for url: https://uxdesign.cc/feed
