@@ -46,17 +46,6 @@ def load_config():
                 "https://www.smashingmagazine.com/feed/",
                 "https://uxmovement.com/feed/",
                 "https://uxdesign.cc/feed"
-                "https://uxmovement.com/feed/",
-                "https://wpmayor.com/feed/",
-                "https://www.wpsolver.com/feed/",
-                "https://www.wpbeginner.com/feed/",
-                "https://www.wordfence.com/blog/feed/",
-                "https://www.sitepoint.com/sitepoint.rss",
-                "https://feeds.feedburner.com/MachineLearningMastery",
-                "http://www.graphicdesignblender.com/feed",
-                "https://wordpress.org/news/feed/",
-                "https://github.blog/feed/",
-                "https://www.itsecurityguru.org/feed/"
             ],
             "ai_filters": {
                 "topics": ["Artificial Intelligence", "Web Design", "UX/UI", "Programming", "Wordpress", "cyber security"],
