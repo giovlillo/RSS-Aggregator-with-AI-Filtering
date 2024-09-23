@@ -27,14 +27,6 @@ This Python script is an advanced RSS feed aggregator that uses AI-powered filte
 - `transformers` library for AI-powered text classification
 - `xml.etree.ElementTree` for XML generation
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/rss-aggregator-ai.git
-cd rss-aggregator-ai
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Configure your RSS feeds and AI filter settings in `config.json`:
